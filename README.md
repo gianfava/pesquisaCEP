@@ -74,10 +74,3 @@ O arquivo `scripts.js` contém funções para:
 
 
 
-/project-root
-│
-├── index.html
-├── styles.css
-├── scripts.js
-└── README.md
-
