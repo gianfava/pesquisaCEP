@@ -1,0 +1,25 @@
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+.form-control {
+  transition: background-color 0.3s, color 0.3s;
+}
+.dark-mode .form-control {
+  background-color: #333;
+  color: #ffffff;
+}
+.btn-primary {
+  transition: background-color 0.3s, border-color 0.3s;
+}
+.dark-mode .btn-primary {
+  background-color: #0066cc;
+  border-color: #0066cc;
+}
+.dark-mode .btn-primary:hover {
+  background-color: #004c99;
+  border-color: #004c99;
+}
