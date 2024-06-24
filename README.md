@@ -72,11 +72,12 @@ O arquivo `scripts.js` contém funções para:
 - [API ViaCEP](https://viacep.com.br/)
 
 
+
+
 /project-root
 │
 ├── index.html
 ├── styles.css
 ├── scripts.js
 └── README.md
-
 
